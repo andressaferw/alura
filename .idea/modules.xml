@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Alura.iml" filepath="$PROJECT_DIR$/.idea/Alura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formacao-java-orientacao-objetos/java-polimorfismo/bytebank-encapsulado/bytebank-encapsulado.iml" filepath="$PROJECT_DIR$/formacao-java-orientacao-objetos/java-polimorfismo/bytebank-encapsulado/bytebank-encapsulado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formacao-java-orientacao-objetos/java-polimorfismo/bytebank-herdado/bytebank-herdado.iml" filepath="$PROJECT_DIR$/formacao-java-orientacao-objetos/java-polimorfismo/bytebank-herdado/bytebank-herdado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formacao-java-orientacao-objetos/java-jre-jdk/java-jre-jdk.iml" filepath="$PROJECT_DIR$/formacao-java-orientacao-objetos/java-jre-jdk/java-jre-jdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formacao-java-orientacao-objetos/java-oo-orientacao-objetos/java-oo-orientacao-objetos.iml" filepath="$PROJECT_DIR$/formacao-java-orientacao-objetos/java-oo-orientacao-objetos/java-oo-orientacao-objetos.iml" />
+    </modules>
+  </component>
+</project>
